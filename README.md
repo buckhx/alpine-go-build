@@ -8,5 +8,7 @@ Docker image from golang:alpine w/ .build virtual apk
 * git
 * go install github.com/mattn/go-sqlite3
 
+https://hub.docker.com/r/buckhx/alpine-go-build/
+
 ## todo
 * rm GIT_SSL_NO_VERIFY
